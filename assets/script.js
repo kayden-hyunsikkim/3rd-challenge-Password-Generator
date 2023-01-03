@@ -19,7 +19,7 @@ generateBtn.addEventListener("click", WRITEPASSWORD);
 
 // this is the function for calling prompt
 function Callprompt() {
-   chalength = parseInt(prompt("how long your password want to be? (between 8 ~ 128 characters)"));
+   chalength = parseInt(prompt("how many digits do you want for your password? (between 8 ~ 128 characters)"));
    console.log(chalength);
    // I used parseInt to make the prompt value to number
    if (isNaN(chalength) || chalength < 8 || chalength > 128) {
