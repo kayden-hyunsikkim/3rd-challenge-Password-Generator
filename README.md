@@ -20,6 +20,8 @@ N/A
 
 URL = https://kayden-hyunsikkim.github.io/3rd-challenge-password-generator/
 
+![webpage image](./assets/images/Screenshot.jpg)
+
 (screenshot image could be slitely different with the web application)
 
 ## Credits
